@@ -1,6 +1,6 @@
 # PyInstaller build artifacts
 build/
-dist/
+# dist/ dikecualikan agar exe bisa di-upload
 
 # Python cache
 __pycache__/
